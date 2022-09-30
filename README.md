@@ -9,19 +9,19 @@ I ran into a CORS error for a while with the tectonic plate dataset, but I was a
 
 Map layer that shows all earthquakes in the last 7 days:
 
-![all_earthquakes](images/all_earthquakes.png)
+![all_earthquakes](Earthquake_Challenge/images/all_earthquakes.png)
 
 
 Map layer that shows all major earthquakes in the last 7 days: 
 
-![major_earthquakes](images/major_earthquakes.png)
+![major_earthquakes](Earthquake_Challenge/images/major_earthquakes.png)
 
 
 Map later that shows the tectonic plates:
 
-![tectonic_plates](images/tectonic_plates.png)
+![tectonic_plates](Earthquake_Challenge/images/tectonic_plates.png)
 
 
 All layers active at the same time: 
 
-![all_layers](images/all_layers.png)
+![all_layers](Earthquake_Challenge/images/all_layers.png)
